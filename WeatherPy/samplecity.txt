@@ -1,0 +1,595 @@
+port alfred
+punta arenas
+hobart
+mahebourg
+tual
+mar del plata
+trincomalee
+puri
+hilo
+rikitea
+upernavik
+sao filipe
+arraial do cabo
+atuona
+vardo
+saskylakh
+tagab
+busselton
+amga
+igboho
+cape town
+vaini
+khatanga
+bluff
+sentyabrskiy
+bredasdorp
+saint-philippe
+pavilosta
+thompson
+jamestown
+hithadhoo
+coquimbo
+cidreira
+puerto ayora
+barrow
+yulara
+rossosh
+cabo san lucas
+katsuura
+ushuaia
+saleaula
+srednekolymsk
+albany
+georgetown
+qaanaaq
+totness
+mitu
+taolanaro
+lake city
+port blair
+bethel
+san cristobal
+hermanus
+mackenzie
+belushya guba
+khorinsk
+a coruna
+yellowknife
+sengiley
+yar-sale
+olafsvik
+avarua
+vorta
+mataura
+khani
+dunedin
+salinas
+meulaboh
+athabasca
+dikson
+gigmoto
+kapaa
+bang saphan
+castro
+east london
+pisco
+cabatuan
+attawapiskat
+palmer
+ahuimanu
+port elizabeth
+ugoofaaru
+lavrentiya
+neryungri
+shache
+tasbuget
+ponta do sol
+dubenskiy
+illoqqortoormiut
+iqaluit
+nizhneyansk
+bafq
+faanui
+husavik
+tsihombe
+hamilton
+kansanshi
+new norfolk
+barentsburg
+luderitz
+poso
+nyurba
+matagami
+ribeira grande
+tavda
+synya
+lagoa
+hasaki
+antofagasta
+bambous virieux
+banmo
+oksfjord
+san vicente de canete
+vincennes
+tasiilaq
+cortez
+aklavik
+tura
+esperance
+kawalu
+ahipara
+balingasay
+sosnovo-ozerskoye
+abasolo
+eyl
+adrar
+narsaq
+butaritari
+dhidhdhoo
+klaksvik
+san vicente
+amderma
+noshiro
+tiksi
+lityn
+nhulunbuy
+mandalgovi
+asfi
+killybegs
+ancud
+kaitangata
+ilulissat
+petrovsk-zabaykalskiy
+duren
+nikolskoye
+yining
+mys shmidta
+tuktoyaktuk
+arlit
+teguldet
+namatanai
+san patricio
+codrington
+soe
+ankazoabo
+bubaque
+nanortalik
+kazalinsk
+berlevag
+fairbanks
+san mateo ixtatan
+conde
+alofi
+leningradskiy
+yerbogachen
+karaul
+havre-saint-pierre
+opuwo
+accrington
+birao
+saldanha
+cayenne
+luena
+bintulu
+constantine
+altay
+naze
+chuy
+carnarvon
+chifeng
+lahij
+peleduy
+oranjemund
+milkovo
+vanavara
+kodiak
+doha
+xadani
+riyadh
+fort nelson
+xunchang
+beringovskiy
+kampong cham
+lucapa
+tukrah
+caravelas
+katherine
+ascension
+mayumba
+bengkulu
+egvekinot
+chernyshevskiy
+mendota
+salamiyah
+bolungarvik
+souillac
+burica
+kilindoni
+kahului
+padang
+karamay
+flin flon
+airai
+tuatapere
+ola
+marsaxlokk
+tumannyy
+norman wells
+robertsport
+warqla
+san jose
+taoudenni
+vostok
+okha
+uvat
+agadir
+port-cartier
+pontianak
+dolbeau
+kudahuvadhoo
+verkhoyansk
+amursk
+kununurra
+itoman
+cap-aux-meules
+kuche
+jalu
+kashiwazaki
+porto nacional
+copparo
+fortuna
+pontes e lacerda
+valjala
+lolua
+diego de almagro
+belaya gora
+kendari
+onega
+port-gentil
+laguna
+tazovskiy
+lebu
+catemaco
+ayagoz
+abu samrah
+dillon
+terra santa
+toktogul
+turukhansk
+sungairaya
+nehe
+richards bay
+saint-francois
+salme
+eenhana
+luanda
+lasa
+oistins
+duldurga
+vargashi
+joshimath
+petropavlovsk-kamchatskiy
+beloha
+aden
+san andres
+ambilobe
+victoria
+nayagarh
+najran
+nurobod
+tutoia
+charters towers
+margate
+tabou
+ambon
+teknaf
+saint-paul
+saint george
+rocha
+meyungs
+samarai
+cartagena
+carahue
+launceston
+kruisfontein
+dali
+casa grande
+sao joao da barra
+kyra
+besikduzu
+shingu
+maniitsoq
+zhigansk
+cherskiy
+zyryanka
+orlik
+minggang
+aksu
+kavieng
+geraldton
+mount isa
+port hedland
+acapulco
+pimentel
+west plains
+sovetskiy
+brownwood
+tessalit
+taltal
+khash
+umzimvubu
+qaqortoq
+kloulklubed
+shelburne
+namibe
+bathsheba
+artyk
+manokwari
+lodwar
+tsumeb
+kaisiadorys
+senmonorom
+muzhi
+torbay
+zhezkazgan
+tamandare
+fillmore
+pochutla
+zunyi
+hofn
+cockburn town
+morondava
+lugus
+prince rupert
+noumea
+marcona
+garowe
+honiara
+grand gaube
+berdyuzhye
+chongwe
+bell ville
+menongue
+paka
+tahoua
+udachnyy
+sitka
+tadine
+nipawin
+mount gambier
+srisailam
+siniscola
+flinders
+qatana
+severo-kurilsk
+pentecoste
+longyearbyen
+pevek
+ocala
+natividade
+jieshi
+kez
+komsomolskiy
+chuzhou
+hauterive
+kulhudhuffushi
+the valley
+clyde river
+luwuk
+vao
+neyshabur
+juneau
+grand river south east
+peniche
+sjenica
+lanivtsi
+vestmannaeyjar
+talkha
+newtownards
+zvishavane
+sambava
+cordoba
+provideniya
+honningsvag
+haibowan
+hermiston
+los llanos de aridane
+kalia
+wuhu
+emerald
+zeya
+lincoln
+san antonio
+todos santos
+bonthe
+waipawa
+shaki
+chadiza
+prainha
+rosignol
+gat
+ossora
+tupik
+wanning
+yeppoon
+lodhran
+poshekhonye
+pacific grove
+cabedelo
+moose factory
+faya
+villamontes
+mayo
+gao
+mehamn
+fare
+vanimo
+riverton
+khonuu
+dingle
+paamiut
+wexford
+chokurdakh
+mombetsu
+itsukaichi
+maloshuyka
+atar
+skegness
+samusu
+ardalstangen
+kantemirovka
+solnechnyy
+ocos
+bezhetsk
+pemangkat
+tomaszow lubelski
+palabuhanratu
+villazon
+iralaya
+florencia
+kapit
+kaeo
+estrela
+argir
+comodoro rivadavia
+parry sound
+ajdabiya
+maicao
+talnakh
+trindade
+sur
+great falls
+zlatoustovsk
+avera
+isangel
+minab
+gladstone
+shahrud
+kambove
+alotau
+itaituba
+wewak
+myaundzha
+soure
+monrovia
+masyaf
+alpine
+ballina
+werda
+mandurah
+nizwa
+temir
+kaka
+comayagua
+gulshat
+lumeje
+nouadhibou
+miandrivazo
+te anau
+emba
+saint-georges
+grinties
+kotido
+clinton
+hami
+wum
+oyama
+sao francisco
+mocuba
+marystown
+okhotsk
+matara
+kieta
+nuuk
+high level
+mehran
+arraias
+zheleznodorozhnyy
+baglung
+nome
+penzance
+sisimiut
+mareeba
+nelson bay
+chute-aux-outardes
+sungaipenuh
+labutta
+saint-augustin
+horadiz
+cam ranh
+grindavik
+rodeo
+sainte-maxime
+zambezi
+jiroft
+sampit
+harper
+chicama
+wuwei
+san pietro vernotico
+laiya
+half moon bay
+alenquer
+escanaba
+kissidougou
+ribas do rio pardo
+praia da vitoria
+sukheke
+rosarito
+howard springs
+hunza
+ayr
+maniwaki
+tracy
+bedele
+louisbourg
+otavi
+zemio
+ribeira brava
+santa maria
+zhigalovo
+buala
+hovd
+severodvinsk
+paradwip
+megion
+buchanan
+taywarah
+pangnirtung
+porbandar
+verkhnevilyuysk
+bowen
+banjar
+bandarbeyla
+bambanglipuro
+piacabucu
+san pedro
+mecca
+pierre
+svetlaya
+niwari
+arak
+merritt island
+shuangcheng
+saint-jean-port-joli
+borova
+ichhawar
+rio de janeiro
+chuchkovo
+miraflores
+praia
+mazyr
+karauzyak
+constitucion
+lysva
+banda aceh
+acarau
+kavaratti
+sangueya
+mikuni
+yumen
+eldorado
+yablonovo
+shenzhen
+verkhnetulomskiy
