@@ -1,6 +1,6 @@
 # Adding config.py file.
 
-api_keys.py
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +131,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+WeatherPy/config.py
